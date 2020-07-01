@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1593272926 source:c:\users\jordi\onedrive - universidad eia\platzi\curso c++\lectura y guardaro de archivos\juego\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1593272743 c:\users\jordi\onedrive - universidad eia\platzi\curso c++\lectura y guardaro de archivos\juego\include\player.h
+
+1593273678 source:c:\users\jordi\onedrive - universidad eia\platzi\curso c++\lectura y guardaro de archivos\juego\main.cpp
+	<iostream>
+	"Player.h"
+	"MapCell.h"
+
+1593273586 c:\users\jordi\onedrive - universidad eia\platzi\curso c++\lectura y guardaro de archivos\juego\include\mapcell.h
+
