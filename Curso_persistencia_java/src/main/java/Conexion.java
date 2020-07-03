@@ -10,6 +10,7 @@ public class Conexion {
             connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/mensajes_app?serverTimezone=UTC", "root","");
             if (connection != null){
                 System.out.println("Conexión exitosa");
+                
             }
         }catch (SQLException e){
             System.out.println(e);
